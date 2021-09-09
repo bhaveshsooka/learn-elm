@@ -1,5 +1,5 @@
 # Parcel build directories
-.cache
+.cache/*
 dist
 
 # Node modules
